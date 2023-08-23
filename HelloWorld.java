@@ -3,6 +3,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World! Yan Qi.");
+        System.out.println("Hello, World! House.");
     }
 }
